@@ -19,7 +19,7 @@ Ensure you have the following installed:
 1. Clone the repository:
    ```sh
    git clone <repository-url>
-   cd scratch-game
+   cd ScratchGame
    ```
 2. Compile the project:
    ```sh
